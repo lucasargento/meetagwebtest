@@ -4,9 +4,9 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "4bc3c2055c6c420db26d1b1ec57b04ae",
-"index.html": "e6b4743480f3828666c5ef900aef1c70",
-"/": "e6b4743480f3828666c5ef900aef1c70",
-"main.dart.js": "a649ba3992b9262de85e78410f0a751c",
+"index.html": "430bc7d8d947d7c9be6b2c43b21cd3a3",
+"/": "430bc7d8d947d7c9be6b2c43b21cd3a3",
+"main.dart.js": "df30e143798bf4c2c4165baadb9bd2f8",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
@@ -17,6 +17,7 @@ const RESOURCES = {
 "assets/Images/MEETAG_BLANCO.png": "70108c86aad06e955b12f2e180438caa",
 "assets/Images/header.png": "611a4cee232311412d86bf82d7ee1d56",
 "assets/Images/MEETAG_NEGRO.png": "ff0121b555013c7bcda9e8777b899ca2",
+"assets/compatibles.html": "0b7b57417e8e6fbe22b37cbce88c600b",
 "assets/AssetManifest.json": "ffe33f93a97fc7061b1dbf662be1f1a6",
 "assets/NOTICES": "c3e473a2e1c9fc679cef594a044a4008",
 "assets/FontManifest.json": "58053b6e3ad10705f3cfe88c8ae5b223",
@@ -56,7 +57,8 @@ const RESOURCES = {
 "assets/assets/Icons/icons8-facebook-480.png": "618c75f6633e939e193272517b552688",
 "assets/assets/Icons/icons8-tiktok-480.png": "62515062d382fe94cd630c54f38a5c6f",
 "assets/assets/Icons/icons8-vsco-480.png": "4ae304c6a6d09dd4f6ea66105cb4cff6",
-"assets/assets/Icons/icons8-paypal-480.png": "daf4930505dce3198e4b38e86f57e7e5"
+"assets/assets/Icons/icons8-paypal-480.png": "daf4930505dce3198e4b38e86f57e7e5",
+"assets/politica.html": "0b7b57417e8e6fbe22b37cbce88c600b"
 };
 
 // The application shell files that are downloaded before a service worker can
